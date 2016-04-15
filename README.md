@@ -35,4 +35,5 @@
 						Introduction
 
 Welcome to the world of pocketmine. With pocketmine you can create a better world of imagination then compared to just
-with opening a world in minecraft. You can extend minecraft 
+with opening a world in minecraft. You can extend minecraft's orginal features to your hearts content if you know how to use it right. This mini pocket sized book can show you how to do many epic things, yhat your normal minecraft world could never possabelly do by it self. So start reading this epic pocket sized book abd get into this wonderfull adventure.
+-------------------------------------------------------
