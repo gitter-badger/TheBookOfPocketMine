@@ -1,4 +1,6 @@
 -----------------------------------------------------------------------------
+
+[![Join the chat at https://gitter.im/matthew4444/TheBookOfPocketMine](https://badges.gitter.im/matthew4444/TheBookOfPocketMine.svg)](https://gitter.im/matthew4444/TheBookOfPocketMine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 						The Book Of PocketMine
 							Made By:
 						Matthew James Pitsicalis
